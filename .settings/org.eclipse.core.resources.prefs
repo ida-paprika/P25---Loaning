@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/co/simplon/p25/loaning/Application.java=UTF-8
+encoding//src/co/simplon/p25/loaning/calculator/AbstractCalculator.java=UTF-8
+encoding//src/co/simplon/p25/loaning/calculator/AnnuityCalculator.java=UTF-8
+encoding//src/co/simplon/p25/loaning/calculator/Schedule.java=UTF-8
+encoding//src/co/simplon/p25/loaning/calculator/ScheduleMethod.java=UTF-8
+encoding//src/co/simplon/p25/loaning/calculator/StraightLineCalculator.java=UTF-8
+encoding//src/co/simplon/p25/loaning/ui/Cli.java=UTF-8
+encoding//src/co/simplon/p25/loaning/ui/CliUtil.java=UTF-8
